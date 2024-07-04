@@ -1,0 +1,48 @@
+.pMainArticleStyle {
+    font-size: 60px;
+    color: #FFF;
+  }
+
+.pSecundaryArticleStyle {
+    font-size: 20px;
+    color: #FFF;
+  }
+
+.pSecundaryArticleStyle-2 {
+  font-size: 16px;
+  color: #FFF;
+  font-weight: bold;
+}
+
+.pSecundaryArticleStyle-2normal {
+  font-size: 16px;
+  color: #FFF;
+}
+
+.pSecundaryArticleStyle-2blue {
+  font-size: 16px;
+  color: rgb(59, 97, 250);
+  font-weight: 20;
+}
+
+.pSecundaryArticleStyle-2black {
+  font-size: 16px;
+  color: black;
+  font-weight: 20;
+}
+
+.pAboutTitleStyle-3 {
+  font-size: 50px;
+  color: #FFF;
+}
+
+.pServicesrticleStyle {
+  font-size: 35px;
+  color: #FFF;
+}
+
+.pServicesrticleStyle-2blue {
+  font-size: 20px;
+  color: rgb(59, 97, 250);
+  font-weight: 20;
+}
